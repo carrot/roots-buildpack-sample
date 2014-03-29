@@ -1,4 +1,4 @@
-# Roots Template: roots-buildpack-sample
+# roots-buildpack-sample
 
 A sample Roots site for testing roots-buildpack
 
