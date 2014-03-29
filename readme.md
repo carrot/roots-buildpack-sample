@@ -9,4 +9,4 @@ A sample Roots site for testing roots-buildpack
 - clone this repo down and `cd` into the folder
 - run `npm install`
 - run `roots watch`
-- profit
+- profit!
