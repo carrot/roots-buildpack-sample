@@ -1,10 +1,4 @@
 {
   "clean_urls": true,
-  "build": {
-    "env": {
-      "config": {
-        "auth": "foo:bar"
-      }
-    }
-  }
+  "error_page": "error.html"
 }
