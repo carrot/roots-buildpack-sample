@@ -1,7 +1,7 @@
 Roots Buildpack Sample
 ======================
 
-A sample Roots site for testing roots-buildpack on Heroku
+A sample Roots site for testing roots-buildpack
 
 ## Setup
 
