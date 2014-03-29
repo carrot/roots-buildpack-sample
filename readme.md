@@ -1,9 +1,9 @@
-# roots-buildpack-sample
+Roots Buildpack Sample
+======================
 
 A sample Roots site for testing roots-buildpack
 
-Setup
------
+## Setup
 
 - make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
 - clone this repo down and `cd` into the folder
