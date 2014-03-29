@@ -1,4 +1,10 @@
 {
   "clean_urls": true,
-  "auth": "foo:bar"
+  "build": {
+    "env": {
+      "config": {
+        "auth": "foo:bar"
+      }
+    }
+  }
 }
