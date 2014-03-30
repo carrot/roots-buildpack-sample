@@ -1,0 +1,13 @@
+{
+  "name": "roots-sample",
+  "description": "A Heroku-ready roots template from Carrot Creative.",
+  "keywords": ["roots", "carrot", "static"],
+  "urls": {
+    "website": "http://roots.cx",
+    "logo": "http://roots.cx/img/circle-logo.svg",
+    "success": "/getting-started"
+  },
+  "env": {
+    "BUILDPACK_URL": "https://github.com/carrot/roots-buildpack"
+  }
+}
