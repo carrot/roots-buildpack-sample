@@ -1,12 +1,4 @@
 Roots Buildpack Sample
 ======================
 
-A sample Roots site for testing roots-buildpack
-
-## Setup
-
-- make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
-- clone this repo down and `cd` into the folder
-- run `npm install`
-- run `roots watch`
-- profit!
+This is a sample site to demonstrate the Roots Heroku buildpack. It relies on [Roots](http://roots.cx) and [Superstatic](https://github.com/divshot/superstatic). For more info, see http://github.com/carrot/roots-buildpack.
