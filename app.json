@@ -4,6 +4,7 @@
   "summary": "Roots is a toolkit built on best practices for advanced front-end web development. It includes a mature static site compiler including layouts, partials, dynamic content, precompiled javascript templates, and diverse language and plugin support. It also includes an extensive css helper library for stylus. Fun fact — this very website was built with roots!",
   "keywords": ["roots", "carrot", "static"],
   "website": "http://roots.cx",
+  "repository": "https://github.com/zeke/roots-buildpack-sample",
   "logo": "http://roots.cx/img/circle-logo.svg",
   "success_url": "http://roots.cx/docs/",
   "env": {
