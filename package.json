@@ -10,5 +10,26 @@
     "axis-css": "0.2.x",
     "rupture": "0.0.x",
     "roots": "3.0.0-rc.5"
-  }
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carrot/roots-buildpack-sample.git"
+  },
+  "keywords": [
+    "roots",
+    "heroku",
+    "buildpack"
+  ],
+  "author": "Kyle MacDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carrot/roots-buildpack-sample/issues"
+  },
+  "homepage": "https://github.com/carrot/roots-buildpack-sample"
 }
