@@ -5,4 +5,4 @@ This is a sample site to demonstrate the Roots Heroku buildpack. It relies on [R
 
 [Roots Buildpack Sample](http://roots-buildpack-sample.herokuapp.com/)
 
-This project is currently using **v0.0.1** of the [Roots Buildpack](http://github.com/carrot/roots-buildpack)
+This project (and buildpack) is currently using **v0.0.3** of the [Charge](http://github.com/carrot/charge)
