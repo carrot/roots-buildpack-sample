@@ -2,14 +2,14 @@
   "name": "roots-buildpack-sample",
   "description": "A sample Roots site for testing roots-buildpack",
   "dependencies": {
-    "jade": "1.x.x",
-    "marked": "0.3.3",
-    "stylus": "0.49.x",
+    "autoprefixer-stylus": "0.6.x",
+    "axis": "0.3.x",
     "coffee-script": "1.x.x",
-    "autoprefixer-stylus": "0.5.x",
-    "axis-css": "0.2.x",
+    "jade": "1.x.x",
+    "markdown-js": "0.0.x",
+    "roots": "3.x",
     "rupture": "0.6.x",
-    "roots": "3.x"
+    "stylus": "0.51.x"
   },
   "version": "0.0.1",
   "main": "index.js",
